@@ -1,0 +1,7 @@
+{
+  "development": {
+    "dbConfig": {
+      "url": "mongodb://img-scraper:img-scraper@ds161443.mlab.com:61443/img-scraper"
+    }
+  }
+}
